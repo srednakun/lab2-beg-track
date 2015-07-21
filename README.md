@@ -25,3 +25,8 @@ Submit a link to a pull request. To do this, do the following:
 7. Go to your repo on GitHub. Look for the green button that says "Compare and Pull Request"
 8. In the grey area near the top of the screen, there should be two dropdowns. One should say "base", and the other "compare". From the "base" dropdown, select "master". (Your master branch, not mine.) From the "compare" dropdown, select the name of your branch (if it's not already selected).
 9. Click the green "Create Pull Request" button. Then, copy the url and submit that in Canvas. Wait to merge this pull request until after I've graded it.
+
+Sources:
+
+W3school.com = array and string js methods
+stackoverflow = array and string js methods
